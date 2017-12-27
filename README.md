@@ -3,8 +3,11 @@ This program helps you block certain websites during work hours to enhance produ
 
 ### Word of Caution:
 Please take a backup of your hosts file present at: C:\Windows\System32\drivers\etc\hosts
-Even if you forget to do that don't worry, I've got you covered. 
-There will be a file hosts_backup created in the same directory. 
+
+Even if you forget to do that don't worry, I've got you covered.
+
+There will be a file hosts_backup created in the same directory.
+
 If for some reason, the original hosts file gets corrupt, you can replace it with the hosts_backup file by deleting the corrupt hosts file and renaming the hosts_backup file as hosts.
 
 ### Scheduling the python program to run on Windows:
