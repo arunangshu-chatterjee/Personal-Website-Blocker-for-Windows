@@ -9,7 +9,7 @@ If for some reason, the original hosts file gets corrupt, you can replace it wit
 
 To run the program via command line, run open command prompt as administrator and run the website_blocker.pyw file.
 
-###Scheduling the python program to run on Windows:
+### Scheduling the python program to run on Windows:
 To run python as a background process on Windows, you would need pythonw.exe.
 This file will be present in the Scripts folder in the python installation directory where python.exe is present.
 So we change the file extension as .pyw instead of .py.
