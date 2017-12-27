@@ -1,6 +1,9 @@
 # Personal-Website-Blocker-for-Windows
 This program helps you block certain websites during work hours to enhance productivity
 
+### You can customize the file!
+Just edit the file and add/delete websites on line 10 and change the time/work hours on line 23.
+
 ### Word of Caution:
 Please take a backup of your hosts file present at: C:\Windows\System32\drivers\etc\hosts
 
